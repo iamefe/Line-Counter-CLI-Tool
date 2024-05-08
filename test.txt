@@ -1,0 +1,7 @@
+That's it! You've built your first command-line tool in Rust. 
+This tool reads a file specified by the provided path and prints the number of lines in that file.
+You can further enhance this project by adding error handling, 
+
+support for multiple files, or additional options and flags. 
+Building command-line tools is a great way to learn about file I/O, 
+argument parsing, and other fundamental concepts in Rust.
